@@ -1,3 +1,17 @@
+<div align="center">
+    
+# LISTE DES MEMBRES DU GROUPE
+
+    
+| Matricule | Noms et Prénoms |
+|:---  | :--- |
+| 22U2194| MEFFO TAHAFO LEA JECY  |
+| 22U2080| TSEMEGNE MARTIN YVAN |
+| 22t2894 | KELODJOU DJOMO NAFISSATOU IVANA |
+| 22U2118 | KEMBOU FOSSO RICHEL |
+
+</div>
+
 # TPE : Optimisation Numérique Sans Contraintes
 
 Ce dépot est le celui dans le lequel nous avons réalisé le 4e devoir portant sur l'optimisation sans contrainte.
