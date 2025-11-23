@@ -34,7 +34,7 @@ J'ai testé la robustesse de l'algorithme en variant le point de départ $x_0$ :
 1.  **Départ sur l'axe X ($y=0$) :** L'algorithme converge vers $(0,0)$.
 2.  **Départ hors de l'axe X ($y \neq 0$) :** L'algorithme diverge vers $-\infty$ selon l'axe des $y$.
 
-J'ai crée un graphique des lignes de niveau (contour plot) pour visualiser la forme et les trajectoires de divergence.
+Création d'un graphique des lignes de niveau (contour plot) pour visualiser la forme et les trajectoires de divergence.
 
 ### 3. Observations
 * **Instabilité Numérique :** L'expérimentation confirme la théorie : bien que le gradient s'annule en $(0,0)$, aucun algorithme de descente standard ne peut s'y stabiliser durablement s'il y a la moindre perturbation sur $y$, car la courbure est négative dans cette direction (valeur propre $-2$).
